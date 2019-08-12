@@ -1,2 +1,3 @@
 # Machine-learning-w-Python
-All the work I learn from my ML courses will be added here
+This course is provided by Coursera and taught by Andew Ng from Stanford University.
+All the course work assignemnts will be added here
